@@ -1,0 +1,25 @@
+name: base
+channels:
+  - defaults
+dependencies:
+  - conda=4.7.11=py37_0
+  - conda-build=3.18.9=py37_0
+  - conda-env=2.6.0=1
+  - conda-package-handling=1.3.11=py37_0
+  - pip:
+    - boto==2.49.0
+    - botocore==1.12.248
+    - matplotlib==3.1.1
+    - networkx==2.3
+    - nibabel==2.3.1
+    - nilearn==0.5.0
+    - nistats==0.0.1b1
+    - numpy==1.14.5
+    - pandas==0.25.2
+    - pandas-flavor==0.1.2
+    - scikit-learn==0.19.2
+    - seaborn
+    - nose
+    - cm
+    - patsy
+prefix: /Users/Ralf/anaconda3
