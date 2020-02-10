@@ -3,5 +3,9 @@ Click on the following links to run the tutorial in your browser. Once the virtu
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/nomcomm/communication_neuroscience/master)
 
 
-(note: if the binder crashes, this might be due to memory reasons (as per conversation with binder-people on gitter: in this case, try changing to a particular host, such as https://notebooks.gesis.org/binder/v2/gh/nomcomm/communication_neuroscience/ This is not generally recommended as it may make the binder-startup less reliable, but it helped me overcome kernel-crashes for analyses that were more resource-demanding)
+(note: if the binder crashes, this might be due to memory reasons (as per conversation with binder-people on gitter: in this case, try changing to a particular host, such as
+
+https://gesis.mybinder.org/v2/gh/nomcomm/communication_neuroscience/master
+
+This is not generally recommended as it may make the binder-startup less reliable, but it helped me overcome kernel-crashes for analyses that were more resource-demanding)
 
