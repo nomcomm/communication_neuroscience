@@ -1,10 +1,9 @@
 .ipynb_checkpoints
 .Rhistory
 .DS_Store
-.mov
-/Users/Ralf/My_Cloud/RalfsFunctions/GITHUB/nomcomm/inspiration_project/data/*
-/Users/Ralf/My_Cloud/RalfsFunctions/GITHUB/nomcomm/inspiration_project/data/
-/Users/Ralf/My_Cloud/RalfsFunctions/GITHUB/nomcomm/communication_neuroscience/scripts/nilearn_cache/*
+.movrs/Ralf/My_Cloud/RalfsFunctions/GITHUB/nomcomm/communication_neuroscience/scripts/
+do_not_sync/*
+nilearn_cache/*
 .ipynb_checkpoints/*
 .mp4
 .jpg
